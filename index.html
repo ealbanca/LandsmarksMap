@@ -12,16 +12,19 @@
     <div id="container">
         <div id="map"></div>
         <div id="menu">
-            <h2>Landmarks</h2>
-            <ul>
-                <li>Idaho Falls Zoo</li>
-                <li>Museum of Idaho</li>
-                <li>Colonial Theater</li>
-            </ul>
+            <h3>Filter Markers by Type:</h3>
+            <select id="filter" onchange="filterMarkers()">
+                <option value="all">All</option>
+                <option value="park">Park</option>
+                <option value="museum">Museum</option>
+                <option value="historical">Historical</option>
+            </select>
+
         </div>
     </div>
 
     <script src="scripts/mapview.js"></script>
+    <script src="scripts/filterMarkers.js"></script>
     <script async defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCIgtZddBaYlGNiYsU8NXNAgMg3QrBuCT0&callback=initMap"></script>
 </body>

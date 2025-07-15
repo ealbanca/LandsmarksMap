@@ -33,14 +33,6 @@
     },
     {
         "position": {
-            "lat": 43.70059006297327,
-            "lng": -111.90307408652957
-        },
-        "title": "Jefferson County Lake",
-        "type": "park"
-    },
-    {
-        "position": {
             "lat": 43.486678424364605,
             "lng": -112.04765252331809
         },
@@ -95,30 +87,6 @@
         "title": "Willard Arts Center (Colonial Theatre)",
         "type": "museum"
     },
-    {
-        "position": {
-            "lat": 43.670530479327134,
-            "lng": -111.91586037423626
-        },
-        "title": "Farnsworth TV & Pioneer Museum",
-        "type": "museum"
-    },
-    {
-        "position": {
-            "lat": 43.67042917739928,
-            "lng": -111.91599384909816
-        },
-        "title": "Jefferson County Museum",
-        "type": "museum"
-    },
-    {
-        "position": {
-            "lat": 43.67911922772174,
-            "lng": -111.91070895279519
-        },
-        "title": "Jefferson County Courthouse",
-        "type": "historical"
-    }
     {
         "position": {
             "lat": 43.491219330857,
