@@ -41,6 +41,30 @@
     },
     {
         "position": {
+            "lat": 43.47738720374111,
+            "lng": -112.04447031655747
+        },
+        "title": " Rollandet Park",
+        "type": "park"
+    },
+    {
+        "position": {
+            "lat": 43.47222520529306,
+            "lng": -112.0413356200504
+        },
+        "title": "Idaho Falls Zoo",
+        "type": "park"
+    },
+    {
+        "position": {
+            "lat": 43.506188745845925,
+            "lng": -112.07067430463329
+        },
+        "title": "Reinhart Park",
+        "type": "park"
+    },
+    {
+        "position": {
             "lat": 43.50125569319502,
             "lng": -112.02283985302934
         },
@@ -123,6 +147,22 @@
             "lng": -112.03837911525265
         },
         "title": "City Building",
+        "type": "historical"
+    },
+    {
+        "position": {
+            "lat": 43.49238135719048,
+            "lng": -112.04074765950314
+        },
+        "title": "Hasbrouck Building",
+        "type": "historical"
+    },
+    {
+        "position": {
+            "lat": 43.49339176966972,
+            "lng": -112.03843577609369
+        },
+        "title": "Montgomery Ward Building",
         "type": "historical"
     }
 ]
