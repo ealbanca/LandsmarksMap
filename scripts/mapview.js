@@ -1,8 +1,10 @@
 function initMap() {
     const idahoFalls = { lat: 43.4917, lng: -112.0341 };
+    const rigby = { lat: 43.7975, lng: -111.7904 };
 
     const map = new google.maps.Map(document.getElementById("map"), {
         center: idahoFalls,
+        center: rigby,
         zoom: 13,
     });
 

@@ -1,26 +1,136 @@
 [
     {
         "position": {
-            "lat": 43.4936,
-            "lng": -112.0402
+            "lat": 43.47390507332727,
+            "lng": -112.03938762208882
         },
-        "title": "Idaho Falls Zoo at Tautphaus Park",
+        "title": "Tautphaus Park",
         "type": "park"
     },
     {
         "position": {
-            "lat": 43.4974,
-            "lng": -112.0341
+            "lat": 43.496617379729955,
+            "lng": -112.04395167424477
+        },
+        "title": "Idaho Falls Greenbelt",
+        "type": "park"
+    },
+    {
+        "position": {
+            "lat": 43.51485308134474,
+            "lng": -112.05154234540836
+        },
+        "title": "Russell A. Freeman Park",
+        "type": "park"
+    },
+    {
+        "position": {
+            "lat": 43.492605105497105,
+            "lng": -112.04494828958718
+        },
+        "title": "Japanese Friendship Garden",
+        "type": "park"
+    },
+    {
+        "position": {
+            "lat": 43.70059006297327,
+            "lng": -111.90307408652957
+        },
+        "title": "Jefferson County Lake",
+        "type": "park"
+    },
+    {
+        "position": {
+            "lat": 43.486678424364605,
+            "lng": -112.04765252331809
+        },
+        "title": "Rock Gardens",
+        "type": "park"
+    },
+    {
+        "position": {
+            "lat": 43.50125569319502,
+            "lng": -112.02283985302934
+        },
+        "title": "Central Park",
+        "type": "park"
+    },
+    {
+        "position": {
+            "lat": 43.490560109345765,
+            "lng": -112.03812758773846
         },
         "title": "Museum of Idaho",
         "type": "museum"
     },
     {
         "position": {
-            "lat": 43.4953,
-            "lng": -112.0328
+            "lat": 43.49035029197007,
+            "lng": -112.04542110698067
         },
-        "title": "Colonial Theater (Historic)",
+        "title": "The Art Museum of Eastern Idaho",
+        "type": "museum"
+    },
+    {
+        "position": {
+            "lat": 43.491107204399405,
+            "lng": -112.04021905115837
+        },
+        "title": "ARTitorium on Broadway",
+        "type": "museum"
+    },
+    {
+        "position": {
+            "lat": 43.49356276562977,
+            "lng": -112.01377246650046
+        },
+        "title": "Collectors Corner Museum",
+        "type": "museum"
+    },
+    {
+        "position": {
+            "lat": 43.49347241948041,
+            "lng": -112.0413784647251
+        },
+        "title": "Willard Arts Center (Colonial Theatre)",
+        "type": "museum"
+    },
+    {
+        "position": {
+            "lat": 43.670530479327134,
+            "lng": -111.91586037423626
+        },
+        "title": "Farnsworth TV & Pioneer Museum",
+        "type": "museum"
+    },
+    {
+        "position": {
+            "lat": 43.67042917739928,
+            "lng": -111.91599384909816
+        },
+        "title": "Jefferson County Museum",
+        "type": "museum"
+    },
+    {
+        "position": {
+            "lat": 43.67911922772174,
+            "lng": -111.91070895279519
+        },
+        "title": "Jefferson County Courthouse",
         "type": "historical"
+    }
+    {
+        "position": {
+            "lat": 43.491219330857,
+            "lng": -112.0498700344276
+        },
+        "title": "Eagle Rock Fountain",
+        "type": "historical"
+    },
+    {
+        "position": {
+            "lat": 43.50578838678016,
+            "lng": -112.04575016158306
+        }
     }
 ]
