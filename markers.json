@@ -100,5 +100,29 @@
             "lat": 43.50578838678016,
             "lng": -112.04575016158306
         }
+    },
+    {
+        "position": {
+            "lat": 43.50031686603399,
+            "lng": -112.04078398958671
+        },
+        "title": "Idaho Falls Temple Visitors' Center",
+        "type": "historical"
+    },
+    {
+        "position": {
+            "lat": 43.492221723137675,
+            "lng": -112.03989894540942
+        },
+        "title": "Idaho Falls Downtown Development Corporation",
+        "type": "historical"
+    },
+    {
+        "position": {
+            "lat": 43.494333988927096,
+            "lng": -112.03837911525265
+        },
+        "title": "City Building",
+        "type": "historical"
     }
 ]
