@@ -1,0 +1,26 @@
+[
+    {
+        "position": {
+            "lat": 43.4936,
+            "lng": -112.0402
+        },
+        "title": "Idaho Falls Zoo at Tautphaus Park",
+        "type": "park"
+    },
+    {
+        "position": {
+            "lat": 43.4974,
+            "lng": -112.0341
+        },
+        "title": "Museum of Idaho",
+        "type": "museum"
+    },
+    {
+        "position": {
+            "lat": 43.4953,
+            "lng": -112.0328
+        },
+        "title": "Colonial Theater (Historic)",
+        "type": "historical"
+    }
+]
