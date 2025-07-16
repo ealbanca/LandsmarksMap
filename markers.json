@@ -6,9 +6,9 @@
         },
         "title": "Tautphaus Park",
         "type": "park",
-        "description": "hahahahhaha",
-        "image": "images/1.jpg",
-        "link": "https://www.google.com/search?q=test&rlz=1C1MMCH_enUS1121US1121&oq=test&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDIKCAEQABixAxiABDIHCAIQABiABDIKCAMQABixAxiABDINCAQQLhivARjHARiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBBzU0M2owajeoAgiwAgHxBdKJNDEhmKSI8QXSiTQxIZikiA&sourceid=chrome&ie=UTF-8"
+        "description": "Tautphaus Park is a city park located in Idaho Falls, Idaho encompassing 84.5 acres. Park amenities include Funland Amusement Park, Idaho Falls Zoo at Tautphaus Park, Joe Marmo/Wayne Lehto Ice Arena, softball and baseball fields, tennis courts, four picnic shelters, basketball court, skateboard park, all access playground equipment, horseshoe pits and restroom facilities.",
+        "image": "images/tautphaus.jpeg",
+        "link": "https://www.idahofallsidaho.gov/facilities/facility/details/Tautphaus-Park-48"
     },
     {
         "position": {
@@ -16,7 +16,10 @@
             "lng": -112.04395167424477
         },
         "title": "Idaho Falls Greenbelt",
-        "type": "park"
+        "type": "park",
+        "description": "The Idaho Falls Greenbelt is a scenic north-south trail along both sides of the Snake River, connecting parks and community areas throughout the city. Starting at the north end near University Place, it passes through Freeman Park—which features picnic shelters, restrooms, a playground, and the Idaho State Vietnam Veterans Memorial—before heading south under Rigby Highway and alongside downtown Idaho Falls. Key highlights include the pedestrian bridge at Sportsman Park, offering river views, a gazebo, picnic areas, and a Japanese-style garden, as well as nearby South Tourist Park with camping. The Greenbelt includes several loops: the 1-mile Freeman Loop around Freeman Park, the 1.4-mile Memorial Loop with overlooks and monuments, and the popular 2.3-mile Temple Loop featuring a boat ramp, diversion dam overlook with a waterfall, and accessible walkways. Together, these trails provide a safe, scenic route for recreation and relaxation along the Snake River.",
+        "image": "images/greenbelt.jpg",
+        "link": "https://www.traillink.com/trail/idaho-falls-greenbelt/"
     },
     {
         "position": {
@@ -24,7 +27,10 @@
             "lng": -112.05154234540836
         },
         "title": "Russell A. Freeman Park",
-        "type": "park"
+        "type": "park",
+        "description": "Russell A Freeman Park is a 60-acre public park in Idaho Falls, Idaho, offering a variety of recreational activities. The park features an 18-hole disc golf course, recognized as one of the best in eastern Idaho, with both backhand and forehand strokes, utilizing a blend of long and short holes. Visitors can enjoy walking and biking trails along the Snake River, providing scenic views and a peaceful atmosphere. The park also includes playgrounds for children, picnic areas, and a Vietnam War memorial, enhancing its community-focused atmosphere. Whether you're looking to relax by the river or engage in outdoor sports, Russell A Freeman Park offers a welcoming environment for all.",
+        "image": "images/freeman.webp",
+        "link": "https://www.idahofallsidaho.gov/facilities/facility/details/Freeman-Park-15"
     },
     {
         "position": {
@@ -32,7 +38,10 @@
             "lng": -112.04494828958718
         },
         "title": "Japanese Friendship Garden",
-        "type": "park"
+        "type": "park",
+        "description": "In the 1980s, the Idaho Falls Rotary Club began formal plans to develop the modern Greenbelt, culminating in major improvements like building the Taylor Bridge replica and enhancing the area’s landscape. A significant milestone came in 2011 with the creation of the Japanese Friendship Garden on the island formerly known as Sportsmen’s Park, commemorating Idaho Falls’ 30-year relationship with its sister city, Tokai Mura, and honoring victims of Japan’s 2011 earthquake and tsunami. Volunteers, local organizations, and donors contributed to the garden’s development, providing labor, plants, and materials. Key additions over the years included reconstructed steps, a platform by the Civitans, graffiti removal, a pavilion, bamboo fencing, walkways, and a Zen Garden, with ongoing support through fundraising and community involvement.",
+        "image": "images/japanese.jpeg",
+        "link": "https://www.idahofallsidaho.gov/1248/Japanese-Friendship-Garden"
     },
     {
         "position": {
@@ -40,15 +49,21 @@
             "lng": -112.04765252331809
         },
         "title": "Rock Gardens",
-        "type": "park"
+        "type": "park",
+        "description": "Tucked along the banks of the Snake River in downtown Idaho Falls, the Rock Gardens are a mesmerizing stretch of terraced stone artistry and lush plantings. Floored with giant boulders repurposed from local lava rock and native bluffs, the gardens create natural benches, meandering pathways, and mini-ecosystems where wildflowers, succulents, and shrubs flourish in crevices. Visitors often spot chipmunks, ground squirrels—and occasionally even deer or birds of prey—darting between rocks or perched on ledges. With well-placed stepping stones and winding trails, it feels like wandering through a peaceful stone maze: perfect for strolling, quiet reflection, or inspiring photos with the flowing river as a dramatic backdrop.",
+        "image": "images/rock.webp",
+        "link": "https://maps.app.goo.gl/Nwk7hfWs6pqdEPij6"
     },
     {
         "position": {
             "lat": 43.47738720374111,
             "lng": -112.04447031655747
         },
-        "title": " Rollandet Park",
-        "type": "park"
+        "title": "Rollandet Park",
+        "type": "park",
+        "description": "Rollandet Park is a family-friendly outdoor recreational area in Idaho Falls, ID. Visitors can enjoy various activities such as picnicking, hiking, and playgrounds in a natural setting. The park provides a peaceful escape for individuals and families looking to spend time outdoors and connect with nature. With its scenic views and amenities, Rollandet Park offers a relaxing environment for all to enjoy.",
+        "image": "images/rollandet.jpg",
+        "link": "https://idahofallsidaho.gov/facilities/facility/details/rollandetpark-34"
     },
     {
         "position": {
@@ -56,7 +71,10 @@
             "lng": -112.0413356200504
         },
         "title": "Idaho Falls Zoo",
-        "type": "park"
+        "type": "park",
+        "description": "With more than 300 individual animals representing 130 species from around the globe, the Idaho Falls Zoo is known as the best little zoo in the west. The first zoo in Idaho to be accredited by the Association of Zoos and Aquariums, Idaho Falls Zoo currently participates in over 40 Species Survival Plans.",
+        "image": "images/zoo.jpeg",
+        "link": "https://www.idahofallsidaho.gov/1736/Zoo"
     },
     {
         "position": {
@@ -64,7 +82,10 @@
             "lng": -112.07067430463329
         },
         "title": "Reinhart Park",
-        "type": "park"
+        "type": "park",
+        "description": "Reinhart Park is a vibrant, 9.3-acre neighborhood gem in Idaho Falls, located at 1055 Washburn Avenue, offering diverse attractions for families and community events. The park features spacious grassy lawns shaded by mature trees, a playground, restrooms, picnic shelters, and a gazebo-style pavilion with seating for approximately 125 people. A highlight is the free, seasonal splash pad—Idaho Falls first—open daily from Memorial Day until just after Labor Day, operating from 9 a.m. to 8 p.m. and funded by city investment and community support. Sports facilities include a softball/baseball field, while eight picnic tables (without power outlets) support gatherings and celebrations . City improvements over time replaced the old, deteriorated pool (removed in 2018) with modern amenities like the splash pad, expanded parking, and upgraded restrooms . Open daily from early morning until late evening, and with reservable shelter space, Reinhart Park remains a well-loved and lively centerpiece of Idaho Falls west side",
+        "image": "images/reinhart.jpg",
+        "link": "https://www.idahofallsidaho.gov/facilities/facility/details/Reinhart-Park-32"
     },
     {
         "position": {
@@ -72,7 +93,10 @@
             "lng": -112.02283985302934
         },
         "title": "Central Park",
-        "type": "park"
+        "type": "park",
+        "description": "Central Park in Idaho Falls is a cozy neighborhood park offering a peaceful green space for local residents. It features open grassy areas, mature trees, a playground, picnic tables, and benches, making it ideal for casual outings, playtime, or relaxing in the shade. While smaller and less developed than some of the city's larger parks, Central Park serves as a quiet retreat for families and individuals looking to enjoy the outdoors within a residential setting. Its simple layout and welcoming atmosphere make it a cherished spot for nearby community members.",
+        "image": "images/central.webp",
+        "link": "https://www.idahofallsidaho.gov/facilities/facility/details/Central-Park-7"
     },
     {
         "position": {
@@ -80,7 +104,10 @@
             "lng": -112.03812758773846
         },
         "title": "Museum of Idaho",
-        "type": "museum"
+        "type": "museum",
+        "description": "The Gem State's premier history and science center, immersing visitors in interactive exhibits on Idaho's cultural and ecological history, alongside world-class traveling exhibits, a children's discovery room, and a full calendar of programs and events for all ages. Accommodations available for those with mobility, visual, and hearing impairment and sensory sensitivities. Open October 1, 2022, through January 29, 2023, reminisce and play in Toytopia, an interactive exhibit all about the history of toys and games. Play the Big piano with your feet, build with Lego and Potato Head toys, walk through the life-size dollhouse, and challenge your friends to classic '80s arcade games. Visit our website to learn more and plan your visit.",
+        "image": "images/museumofidaho.jpg",
+        "link": "https://museumofidaho.org/"
     },
     {
         "position": {
@@ -88,7 +115,10 @@
             "lng": -112.04542110698067
         },
         "title": "The Art Museum of Eastern Idaho",
-        "type": "museum"
+        "type": "museum",
+        "description": "THE ART MUSEUM OF EASTERN IDAHO (TAM) has championed the visual arts since 2002 through innovative and stimulating exhibits and its focus on educational art programs. Located on the greenbelt walkway overlooking the Snake River in Idaho Falls, TAM is home to five galleries, a children's interactive art learning area, an art classroom/workshop area and an eclectic gift shop. Browse the exhibits at your leisure or join us for tours, family days, art lectures, studio classes and more!",
+        "image": "images/art.jpg",
+        "link": "https://www.theartmuseum.org/"
     },
     {
         "position": {
@@ -96,7 +126,10 @@
             "lng": -112.04021905115837
         },
         "title": "ARTitorium on Broadway",
-        "type": "museum"
+        "type": "museum",
+        "description": "ARTitorium on Broadway is a unique facility that combines art and technology to create an interactive space that is perfect for children of all ages. Try your hand at a creation station, browse the virtual gallery, perform in front of the green screen, fly down the turbo twister slide, and much, much more! Located in downtown Idaho Falls, ARTitorium is the perfect way to spend your day.",
+        "image": "images/artitorium.webp",
+        "link": "https://www.artitoriumonbroadway.org/"
     },
     {
         "position": {
@@ -104,7 +137,10 @@
             "lng": -112.01377246650046
         },
         "title": "Collectors Corner Museum",
-        "type": "museum"
+        "type": "museum",
+        "description": "The Collectors Corner Museum in Idaho Falls is a charming and eclectic treasure trove created by lifelong collectors Jim and Nida Gyorfy. Housed in a former grocery store building, it features over 125 themed collections meticulously arranged in glass cases—from military memorabilia, coins, stamps, hubcaps, and troll dolls to a room dedicated to nearly 400 Barbies and rotating special exhibits. More than just a display space, the museum comes alive through the personal stories and knowledge shared by the owners, giving it a warm, engaging atmosphere. Open since 2003 with a modest admission fee, it also offers a small gift shop and the chance to purchase some of the items. Whether you are a seasoned collector or simply love stepping back into nostalgic memories, this quirky, intimate museum offers a delightful and one of a kind experience in Idaho Falls.",
+        "image": "images/collectors.jpg",
+        "link": "https://www.facebook.com/collectors50/"
     },
     {
         "position": {
@@ -112,7 +148,10 @@
             "lng": -112.0413784647251
         },
         "title": "Willard Arts Center (Colonial Theatre)",
-        "type": "museum"
+        "type": "museum",
+        "description": "The Colonial Theater originally opened on November 10, 1919. It boasted one of the largest stages in the Intermountain West, enjoyed superb acoustics, and featured traveling vaudeville acts, minstrels, and musical groups. Today the 988 seat Colonial Theater is owned and operated by the Idaho Falls Arts Council and plays host to over 25,000 patrons every year.",
+        "image": "images/theatre.jpg",
+        "link": "https://www.idahofallsarts.org/venues/colonial-theater/"
     },
     {
         "position": {
@@ -120,13 +159,10 @@
             "lng": -112.0498700344276
         },
         "title": "Eagle Rock Fountain",
-        "type": "historical"
-    },
-    {
-        "position": {
-            "lat": 43.50578838678016,
-            "lng": -112.04575016158306
-        }
+        "type": "historical",
+        "description": "The Eagle Rock Fountain in Idaho Falls, also known as “The Protector,” is a dramatic 26-foot-tall waterfall sculpture located in the heart of a busy roundabout at Taylor Crossing. Built in 2006 by developers Rollie and Lorin Walker, the fountain’s rugged base is crafted from locally sourced stone, while famed sculptor Vic Payne contributed life-sized bronze eagles—a mother feeding two eaglets and a vigilant guardian father circling overhead. The eagles boast a wingspan of about 21 feet, and the eaglets reach 4½ feet tall, making this one of the largest eagle monuments in the world. This artwork not only honors the city's original name, Eagle Rock—derived from a nearby island where eagles once nested—it also serves as a striking landmark and community symbol, blending local heritage with natural beautyThe cascading water provides a soothing ambiance in warmer months and transforms into spectacular icy formations in winter, drawing photographers and families alike",
+        "image": "images/eagle.jpg",
+        "link": "https://ashcoroofingexperts.com/the-history-and-significance-of-the-eagle-rock-fountain-in-idaho-falls-id/"
     },
     {
         "position": {
@@ -134,7 +170,10 @@
             "lng": -112.04078398958671
         },
         "title": "Idaho Falls Temple Visitors' Center",
-        "type": "historical"
+        "type": "historical",
+        "description": "Open to the public, the Idaho Falls Temple grounds are a beautiful and peaceful place to visit. Visitors can walk through the colorful gardens lined with towering trees, sit by the fountains and cascading waterfall, enjoy the beautiful view of the Snake River, and feel the peace of the grounds. While you're there, you can take a guided tour at the Visitors' Center. Or, during the pandemic, take a virtual tour from anywhere in the world!",
+        "image": "images/visitor.jpg",
+        "link": "https://www.churchofjesuschrist.org/locations/idaho-falls-temple-visitors-center?lang=eng"
     },
     {
         "position": {
@@ -142,7 +181,10 @@
             "lng": -112.03989894540942
         },
         "title": "Idaho Falls Downtown Development Corporation",
-        "type": "historical"
+        "type": "historical",
+        "description": "The Idaho Falls Downtown Development Corporation (IFDDC) is a nonprofit 501(c)(6) organization established to manage the city's Business Improvement District (BID) and to champion the revitalization of downtown Idaho Falls. Its origins trace back to the late 20th century, when local leaders recognized the need to reinvigorate the historic core of the city. Since then, IFDDC has played a central role in preserving and enhancing downtown through a blend of beautification projects, public art, infrastructure improvements, and event programming.Core responsibilities include managing downtown sidewalks, alleyways, and four public parking lots; maintaining roughly 100 hanging flower baskets and seasonal decorations; and managing urban streetscape elements like planters and lighting.",
+        "image": "images/downtown.jpg",
+        "link": "https://downtownidahofalls.com/"
     },
     {
         "position": {
@@ -150,7 +192,10 @@
             "lng": -112.03837911525265
         },
         "title": "City Building",
-        "type": "historical"
+        "type": "historical",
+        "description": "The Idaho Falls City Office Building is a historic building in Idaho Falls, Idaho. It was built in 1929-1930 as a rectangular structure with double fluted Ionic columns, reminiscent of Beaux-Arts architecture. It has been listed on the National Register of Historic Places since August 30, 1984.",
+        "image": "images/city.jpg",
+        "link": "https://sah-archipedia.org/buildings/ID-01-019-0048"
     },
     {
         "position": {
@@ -158,7 +203,10 @@
             "lng": -112.04074765950314
         },
         "title": "Hasbrouck Building",
-        "type": "historical"
+        "type": "historical",
+        "description": "The Hasbrouck Building, located at 362 Park Avenue, is a striking example of late 19th-century stone commercial architecture in downtown Idaho Falls. Built in 1895 by prominent local attorney and state senator Herman J. Hasbrouck, the structure began as a single-story stone edifice housing general merchandise and later furniture, crockery, and even the post office. Between 1903 and 1905, a second floor was added to accommodate law offices and additional space, while a rear wing was extended in height by 1921. Made of coursed masonry, rusticated veneer, and featuring Romanesque Revival elements like keystoned arches and a dentil cornice, the Hasbrouck Building is one of the city’s best-preserved historic stone structures. It survived the devastating Broadway fire of 1904 and earned a place on the National Register of Historic Places in 1984. For decades it served as a popular local bar and gathering spot. Today, the building is being transformed into a boutique event center complete with skylights, concert gallery, and kitchen, blending its rich history with new life as a cultural hub.",
+        "image": "images/hasbrouck.png",
+        "link": "https://www.idahofallsidaho.gov/DocumentCenter/View/1159/Hasbrouck-Building-PDF"
     },
     {
         "position": {
@@ -166,6 +214,9 @@
             "lng": -112.03843577609369
         },
         "title": "Montgomery Ward Building",
-        "type": "historical"
+        "type": "historical",
+        "description": "The Montgomery Ward Building, situated at 504 Shoup Avenue in downtown Idaho Falls, is a striking testament to late-1920s architecture. Constructed in 1928–1929 in a blend of Renaissance Revival with Art Deco accents, the two-story brick structure has retained its historical integrity and was recognized on the National Register of Historic Places in 1984.  It originally served as the city's Montgomery Ward department store, and today hosts street-level commercial space—including a restaurant—and offices upstairs",
+        "image": "images/montgomery.jpg",
+        "link": "https://www.bossgroupidaho.com/504-shoup-avenue/"
     }
 ]
