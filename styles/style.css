@@ -58,3 +58,13 @@
     font-size: x-large;
     font-weight: bold;
 }
+
+#display {
+    margin-top: 24px;
+    padding: 16px;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 0.95em;
+    color: #333;
+}
