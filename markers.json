@@ -5,7 +5,10 @@
             "lng": -112.03938762208882
         },
         "title": "Tautphaus Park",
-        "type": "park"
+        "type": "park",
+        "description": "hahahahhaha",
+        "image": "images/1.jpg",
+        "link": "https://www.google.com/search?q=test&rlz=1C1MMCH_enUS1121US1121&oq=test&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDIKCAEQABixAxiABDIHCAIQABiABDIKCAMQABixAxiABDINCAQQLhivARjHARiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBBzU0M2owajeoAgiwAgHxBdKJNDEhmKSI8QXSiTQxIZikiA&sourceid=chrome&ie=UTF-8"
     },
     {
         "position": {
