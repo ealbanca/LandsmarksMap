@@ -45,3 +45,16 @@
     font-size: 1em;
     color: #444;
 }
+
+#menu li:hover {
+    color: rgb(3, 184, 3);
+    font-size: x-large;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#menu li.selected {
+    color: green;
+    font-size: x-large;
+    font-weight: bold;
+}
