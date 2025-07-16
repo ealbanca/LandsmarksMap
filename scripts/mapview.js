@@ -18,7 +18,7 @@ function initMap() {
     fetch('markers.json')
         .then(response => response.json())
         .then(data => {
-            data.forEach(({ position, title, type }) => {
+            data.forEach(({ position, title, type, description, image, link }) => {
                 // If missing type or title, assign default or skip
                 const markerType = type || 'park';  // default to park or you can skip if no type
                 const markerTitle = title || 'No Title';
@@ -30,7 +30,15 @@ function initMap() {
                     icon: icons[markerType],
                 });
 
-                marker.type = markerType;  // store type on marker for filtering
+                marker.type = markerType;
+                marker.description = description;
+                marker.image = image;
+                marker.link = link;
+
+                marker.addListener("click", () => {
+                    showMarkerDetails(marker);
+                });
+
                 markers.push(marker);
             });
         })
