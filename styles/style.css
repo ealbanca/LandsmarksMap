@@ -1,17 +1,21 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 #container {
     display: flex;
-    justify-content: center;
+    justify-content: left;
     align-items: flex-start;
-    gap: 24px;
-    max-width: 1200px;
+    gap: 20px;
+    max-width: 1500px;
     margin: 40px auto;
 }
 
 #map {
-    flex: 2;
+    flex: 5;
     height: 90vh;
-    width: 100vw;
-    max-width: 1000px;
+    width: 200vw;
+    max-width: 1200px;
     border-radius: 16px;
     box-shadow: 0 4px 24px rgba(0, 0, 0, 0.15);
     border: 2px solid #e0e0e0;
@@ -19,7 +23,7 @@
 }
 
 #menu {
-    flex: 1;
+    flex: 2;
     min-width: 220px;
     background: #fff;
     border-radius: 16px;
@@ -62,12 +66,28 @@
 #display {
     margin-top: 24px;
     padding: 16px;
-    background: #f9f9f9;
-    border: 1px solid #ddd;
+    background: #ffffff;
+    border: 1px solid green;
     border-radius: 8px;
     font-size: 0.95em;
-    color: #333;
+    color: black;
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
 }
+
+#display h3 {
+    text-align: center;
+    color: green;
+    font-weight: bold;
+}
+
+#display p a {
+    text-decoration: none;
+    color: green;
+    font-weight: bold;
+}
+
 
 .marker-image {
     max-width: 100%;
