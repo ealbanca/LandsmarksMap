@@ -5,13 +5,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles/style.css">
-    <link rel="icon" type="image/ico" href="images/favicon.ico">
+    <link rel="icon" type="image/ico" href="images/favicon.ico"> <!--Favicon created with a website-->
     <title>LandsMark Idaho Falls</title>
 </head>
 
 <body>
-    <div id="container">
-        <div id="map"></div>
+    <div id="container"><!--Main container for the filter, map and display container-->
         <div id="menu">
             <h3>Markers Filter</h3>
             <ul id="filter">
@@ -20,28 +19,31 @@
                 <li data-type="museum">Museum</li>
                 <li data-type="historical">Historical</li>
             </ul>
-            <div id="display">
-                <h3>Idaho Falls</h3>
-                <img src=images/idaho.webp alt="Idaho Falls" class="marker-image">
-                <p>Located in eastern Idaho along the Snake River, has a rich history rooted in agriculture,
-                    transportation, and energy. Originally a crossing point on the Oregon Trail, it began as a small
-                    settlement known as Taylor Crossing in the 1860s, named after a ferry operator. The arrival of the
-                    Utah and Northern Railroad in 1879 spurred growth, and the town was renamed Idaho Falls in 1891,
-                    inspired by the river's rapids. It developed into a regional hub for farming and livestock. In the
-                    mid-20th century, the nearby Idaho National Laboratory brought significant scientific and nuclear
-                    research activity to the region, making it a center for energy innovation. Today, Idaho Falls is
-                    known for its outdoor recreation, proximity to Yellowstone and Grand Teton National Parks, and its
-                    role in science and technology research.</p>
-                <p><a href="https://www.idahofallsidaho.gov/" target="_blank">Learn more</a></p>
-
-            </div>
         </div>
+        <div id="map"></div>
 
+        <div id="display"> <!--Default information displayed when the page is loaded-->
+            <h3>Idaho Falls</h3>
+            <img src=images/idaho.webp alt="Idaho Falls" class="marker-image">
+            <p>Located in eastern Idaho along the Snake River, has a rich history rooted in agriculture,
+                transportation, and energy. Originally a crossing point on the Oregon Trail, it began as a small
+                settlement known as Taylor Crossing in the 1860s, named after a ferry operator. The arrival of the
+                Utah and Northern Railroad in 1879 spurred growth, and the town was renamed Idaho Falls in 1891,
+                inspired by the river's rapids. It developed into a regional hub for farming and livestock. In the
+                mid-20th century, the nearby Idaho National Laboratory brought significant scientific and nuclear
+                research activity to the region, making it a center for energy innovation. Today, Idaho Falls is
+                known for its outdoor recreation, proximity to Yellowstone and Grand Teton National Parks, and its
+                role in science and technology research.</p>
+            <p><a href="https://www.idahofallsidaho.gov/" target="_blank">Learn more</a></p>
+        </div>
     </div>
 
+    </div>
+    <!--Linked scripts from the scripts folder-->
     <script src="scripts/mapview.js"></script>
     <script src="scripts/filterMarkers.js"></script>
     <script src="scripts/display.js"></script>
+    <!-- Used to load the Google Maps JavaScript API into the web page (using my key)-->
     <script async defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCIgtZddBaYlGNiYsU8NXNAgMg3QrBuCT0&callback=initMap"></script>
 </body>
