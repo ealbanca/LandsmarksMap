@@ -1,3 +1,4 @@
+// This is the marker filter function. 
 function filterMarkersByType(type) {
     markers.forEach(marker => {
         if (type === "all" || marker.type === type) {
@@ -8,6 +9,7 @@ function filterMarkersByType(type) {
     });
 }
 
+// Added event listener to the filter element
 document.addEventListener("DOMContentLoaded", () => {
     const filterList = document.getElementById("filter");
 
