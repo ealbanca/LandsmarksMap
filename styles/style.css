@@ -1,3 +1,5 @@
+/*Style for map, markers and menu*/
+
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -31,6 +33,7 @@ body {
     border: 2px solid #e0e0e0;
     padding: 24px;
     margin-top: 0;
+    text-align: center;
 }
 
 #menu h2 {
