@@ -8,6 +8,8 @@ Some of the features are:
 * Marker Popups: Clicking a marker updates a display section with information, including images, descriptions, and external links(learn more).
 * Modular JavaScript: mapview.js: Initializes the map and loads markers from a JSON file. filterMarkers.js: Handles logic to filter markers based on category. display.js: Manages the display area that shows marker information.
 
+[Demo Video](https://youtu.be/2QH1ocDQJDU)
+
 # Development Environment
 * Google Maps JavaScript API
 * JavaScript
