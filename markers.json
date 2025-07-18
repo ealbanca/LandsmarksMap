@@ -12,6 +12,17 @@
     },
     {
         "position": {
+            "lat": 43.48946200544109,
+            "lng": -112.02740934232786
+        },
+        "title": "Kate Curley Park",
+        "type": "park",
+        "description": "Kate Curley Park & Shelter, located at 300–398 South 9th Street in Idaho Falls, is a peaceful 9.5-acre neighborhood park nestled in a quiet residential area. Known for its mature trees and well-maintained green space, the park features a single reservable shelter with seating for up to 90 people, along with around 10 additional picnic tables scattered throughout. It offers a fun playground with tall slides and swings (including toddler swings), making it a favorite spot for families. Public restrooms are available seasonally, and the park is open daily from 5:00 AM to 11:00 PM. Leashed dogs are welcome, with waste stations provided, and visitors appreciate the park’s cleanliness, ample shade, and relaxed atmosphere. With a 4.4-star average rating from hundreds of reviews, Kate Curley Park is an ideal spot for gatherings, picnics, or a quiet stroll.",
+        "image": "images/kate.webp",
+        "link": "https://www.idahofallsidaho.gov/facilities/facility/details/Kate-Curley-Park-Shelter-25"
+    },
+    {
+        "position": {
             "lat": 43.496617379729955,
             "lng": -112.04395167424477
         },
