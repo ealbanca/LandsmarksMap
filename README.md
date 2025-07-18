@@ -1,18 +1,22 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This web-based application shows some landmarks in Idaho Falls using the Google Maps JavaScript API. Visitors can explore a map view of the city and filter interactive markers by category: Parks, Museums, and Historical Sites.
 
-{Provide a description the map software that you wrote. Describe how to use your software.  Describe the source of the data that you used.}
+Some of the features are: 
+Dynamic Google Map Integration: Displays a zoomable and interactive map centered on Idaho Falls.
 
-{Describe your purpose for writing this software.}
+Filterable Markers: Users can filter points of interest by type (All, Park, Museum, Historical).
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
+Marker Popups: Clicking a marker updates a display section with information, including images, descriptions, and external links(learn more).
 
-[Software Demo Video](http://youtube.link.goes.here)
+Modular JavaScript: mapview.js: Initializes the map and loads markers from a JSON file. filterMarkers.js: Handles logic to filter markers based on category. display.js: Manages the display area that shows marker information.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+*Google Maps JavaScript API
+*JavaScript
+*HTML
+*CSS
 
 {Describe the programming language that you used and any libraries.}
 
