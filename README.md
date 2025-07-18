@@ -9,21 +9,18 @@ Some of the features are:
 * Modular JavaScript: mapview.js: Initializes the map and loads markers from a JSON file. filterMarkers.js: Handles logic to filter markers based on category. display.js: Manages the display area that shows marker information.
 
 # Development Environment
-
 * Google Maps JavaScript API
 * JavaScript
 * HTML
 * CSS
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 * [Maps JavaScript API](https://developers.google.com/maps/documentation/javascript)
-* [Web Site Name](http://url.link.goes.here)
+* [W3Schools](https://www.w3schools.com/graphics/google_maps_intro.asp)
+* [Tutorials Point](https://www.tutorialspoint.com/google_maps/index.htm)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Add a "hover" to the markers when selected. Since the markers are not part of the DOM, they need to be edited or scaled using the Google Maps API.
+* Enable users to submit new landmarks through a form, and store those markers in local storage.
+* Use the browser's geolocation API to show the user’s current location on the map.
+* Integrate local news or event feeds related to Idaho Falls landmarks using APIs or RSS.
