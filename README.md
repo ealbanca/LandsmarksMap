@@ -15,12 +15,10 @@ Some of the features are:
 * HTML
 * CSS
 
-{Describe the programming language that you used and any libraries.}
-
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
+* [Maps JavaScript API](https://developers.google.com/maps/documentation/javascript)
 * [Web Site Name](http://url.link.goes.here)
 
 # Future Work
